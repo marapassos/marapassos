@@ -1,10 +1,10 @@
-## Heeey! Welcome to my seeds🌱 
+## Welcome to my seed 🌱🌱🌱 UX RESEARCH 🌱🌱🌱
                  
  <div>
   <div> 
   
-  ### "This is the secret of life: to be non-serious but absolutely involved!" (Sadhguru)
-  ##### .UX RESEARCH.
+  ### “Every moment there are a million miracles happening around you: a flower blossoming, a bird tweeting, a bee humming, a raindrop falling, a snowflake wafting along the clear evening air. There is magic everywhere. If you learn how to live it, life is nothing short of a daily miracle.” (Sadhguru)
+  ##### 
      
   <a href="https://github.com/marapassos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraneane&layout=compact&langs_count=7&theme=dracula"/>
